@@ -1,5 +1,5 @@
 # inVCIPadaptor
-VCIP Web View Adaptor for Android
+VCIP Web View Adapter for Android
 
 ## Minimum Requirements
 - `minSdkVersion 21` 
