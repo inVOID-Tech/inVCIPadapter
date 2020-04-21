@@ -31,5 +31,5 @@ This library also uses some common android libraries. So if you are not already 
 ## Initialize SDK
 
 ```
-VideoKycHelper.start(YourActivity.this);
+VideoKycHelper.start(YourActivity.this, "Unique url of user");
 ```
