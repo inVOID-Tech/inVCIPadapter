@@ -21,7 +21,7 @@ Add following lines in your module level ```build.gradle```
 ```
 dependencies {
     ....
-    implementation 'co.invoid.android:videokycandroid:1.0.0'
+    implementation 'co.invoid.android:videokycandroid:1.0.1'
 }
 ```
 
