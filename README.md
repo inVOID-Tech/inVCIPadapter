@@ -1,5 +1,5 @@
 # inVCIPadaptor
-VIDEO KYC VCIP Web View Adapter for Android
+VIDEO KYC VCIP Web View Adaptor for Android
 
 ## Minimum Requirements
 - `minSdkVersion 21` 
