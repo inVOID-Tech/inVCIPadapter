@@ -12,7 +12,7 @@ Add following lines in your root ```build.gradle```
 allprojects {
     repositories {
         ...
-        maven { url "https://dl.bintray.com/invoidandroid12/android/" }
+        maven { url "https://gitlab.com/api/v4/projects/24251481/packages/maven" }
     }
 }
 ```
@@ -21,7 +21,7 @@ Add following lines in your module level ```build.gradle```
 ```
 dependencies {
     ....
-    implementation 'co.invoid.android:videokycandroid:1.0.3rc'
+    implementation 'co.invoid.android:videokycandroid:1.0.3'
 }
 ```
 
